@@ -1,7 +1,36 @@
 header {
     background-color: yellow;
+    display: inline-block;
+    width: 100%;
 }
 
-header img {
-    height: 40px;
+header>img {
+    float: left;
+    height: 50px;
 }
+
+header>nav {
+    float: right;
+    margin-top: 13px;
+    margin-bottom: 15px;
+}
+
+header a {
+    color: blue;
+    float: left;
+    margin-right: 20px;
+    font-size: 20px;
+    line-height: 20px;
+    text-decoration: none;
+}
+
+header a:last-child{
+    margin-right: 0;
+}
+
+header a:hover {
+    background-color: red;
+}
+
+
+
