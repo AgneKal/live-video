@@ -1,0 +1,15 @@
+.social-list {
+    display: flex;
+    gap: 20px;
+}
+
+.social-list > .icon {
+    width: 40px;
+    height: 40px;
+    background-color: lightblue;
+}
+
+
+.copyright {
+    font-style: italic;
+}
