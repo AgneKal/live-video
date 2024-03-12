@@ -1,3 +1,5 @@
+![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+
 # Live video
 
 _website design project_
@@ -61,7 +63,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 There is no tests for this project.
 
-## 🎅 Authors
+## 👩‍💻 Authors
 
 Agne: [Github](https://github.com/AgneKal)
 
