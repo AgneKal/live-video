@@ -25,11 +25,13 @@ main.container {
     line-height: 48px;
     color: #180D77;
     text-transform: uppercase;
+    background-color: #fff8;
 }
 
 .description {
     font-size: 18px;
     margin-bottom: 20px;
+    background-color: #fff8;
 }
 
 .btn {
